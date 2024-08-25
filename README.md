@@ -4,7 +4,7 @@ This Project is part of CSE 546 - Cloud Computing course
 
 The architecture of the application is as follows - 
 
-	![alt text](architecture.png)
+![Alt text](https://github.com/PradnyaC11/Video-Analysis-Service/blob/main/architecture.png "Architecture Diagram")
 
 This is a video analysis application that uses two Lambda functions to implement a multi-stage pipeline to process videos sent by users.
 1. The pipeline starts with a user uploading a video to the input bucket.
